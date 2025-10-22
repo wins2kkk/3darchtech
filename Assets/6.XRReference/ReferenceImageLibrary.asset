@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4848951246645920029
+  m_GuidHigh: 8312001919708697510
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5671347879376440910
+      m_GuidHigh: 4285005846185367189
+    m_SerializedTextureGuid:
+      m_GuidLow: 16750089714824418482
+      m_GuidHigh: 8882522061699012059
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_crocub
+    m_Texture: {fileID: 2800000, guid: 900894b245d9e874dbd523e5c00e457b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5016148646405458825
+      m_GuidHigh: 1978488575331031180
+    m_SerializedTextureGuid:
+      m_GuidLow: 11314209880200584027
+      m_GuidHigh: 256300713428400299
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_bregon
+    m_Texture: {fileID: 2800000, guid: d7921b5b25f09d04ab38941324908e03, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5153447206057004923
+      m_GuidHigh: 446431720839985560
+    m_SerializedTextureGuid:
+      m_GuidLow: 892993473582758908
+      m_GuidHigh: 2000177612981722393
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_bulby
+    m_Texture: {fileID: 2800000, guid: 3ba47bfc8cd50c6419dd760df10ec21b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5537536072032770155
+      m_GuidHigh: 9846481666506494340
+    m_SerializedTextureGuid:
+      m_GuidLow: 11553038923512147657
+      m_GuidHigh: 4130763431728299288
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_hercub
+    m_Texture: {fileID: 2800000, guid: b833eec9a3b0a05418bd5697746b5339, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5026351203845068242
+      m_GuidHigh: 5920063039401631902
+    m_SerializedTextureGuid:
+      m_GuidLow: 10179274073314685528
+      m_GuidHigh: 3561280003524478473
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_mossy
+    m_Texture: {fileID: 2800000, guid: 6b43f2580bd68d440946c7734b356c31, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4924448031579095626
+      m_GuidHigh: 733382580930619573
+    m_SerializedTextureGuid:
+      m_GuidLow: 10944914112119394730
+      m_GuidHigh: 14222100398084320843
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_seafa
+    m_Texture: {fileID: 2800000, guid: 760951aa256597e44beec1cbf50c5fc5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5286205191838626515
+      m_GuidHigh: 8236355377405686674
+    m_SerializedTextureGuid:
+      m_GuidLow: 12692468180623148977
+      m_GuidHigh: 6851598432194337851
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_spikuff
+    m_Texture: {fileID: 2800000, guid: 0cfdc7b1b490b0243b1c910679c4155f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5231257152087940109
+      m_GuidHigh: 16920927065184733100
+    m_SerializedTextureGuid:
+      m_GuidLow: 4279635850345828710
+      m_GuidHigh: 15971271760474639001
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_taily
+    m_Texture: {fileID: 2800000, guid: a3e3d16652213b64998a51f60b5ba5dd, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4945010738481156095
+      m_GuidHigh: 10111638704336930734
+    m_SerializedTextureGuid:
+      m_GuidLow: 10179512740690695862
+      m_GuidHigh: 1881351990408239546
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_verfawn
+    m_Texture: {fileID: 2800000, guid: 7f6e96b6e4e78d44bad9c1ddaae71b1a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5413901286974571595
+      m_GuidHigh: 1329376396482279556
+    m_SerializedTextureGuid:
+      m_GuidLow: 8125771134340964392
+      m_GuidHigh: 1172667917852621803
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_rumbu
+    m_Texture: {fileID: 2800000, guid: 6484202889cb70c4eb3b1a1b42274610, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4640083953851533214
+      m_GuidHigh: 4798642515860976808
+    m_SerializedTextureGuid:
+      m_GuidLow: 12169909004611819955
+      m_GuidHigh: 447719879654779338
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_shardon
+    m_Texture: {fileID: 2800000, guid: c0b719b333c2a8e4ca29b4c1db9e3606, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5430606925889381042
+      m_GuidHigh: 12709818914737599363
+    m_SerializedTextureGuid:
+      m_GuidLow: 17538176640658090265
+      m_GuidHigh: 17324870909499037416
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_zetooth
+    m_Texture: {fileID: 2800000, guid: c27aa9191ebbf364e85630144d4e6ef0, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5168099730424294297
+      m_GuidHigh: 6656681386809759142
+    m_SerializedTextureGuid:
+      m_GuidLow: 12178864956189406811
+      m_GuidHigh: 6329661241068329163
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_celuna
+    m_Texture: {fileID: 2800000, guid: b91f765b0526a904cb986fde5c79d757, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5303287752685650994
+      m_GuidHigh: 1556166379495239553
+    m_SerializedTextureGuid:
+      m_GuidLow: 4284134257999860431
+      m_GuidHigh: 12598526488508836106
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_drizzy
+    m_Texture: {fileID: 2800000, guid: ca29d2cf4d683b740a29eb6817f5d6ae, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5590372179448039275
+      m_GuidHigh: 2400556660857270403
+    m_SerializedTextureGuid:
+      m_GuidLow: 4874282139871178112
+      m_GuidHigh: 12670491401779447514
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_luea
+    m_Texture: {fileID: 2800000, guid: fa0d6d80edc743a4da86b47ccca0d6af, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4647662661409825403
+      m_GuidHigh: 15842206060856792452
+    m_SerializedTextureGuid:
+      m_GuidLow: 6306205638338912074
+      m_GuidHigh: 4086343232396047466
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_marvi
+    m_Texture: {fileID: 2800000, guid: c9c19f4a249d57846ab449fd849bb538, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5563346784379381586
+      m_GuidHigh: 851021116508111511
+    m_SerializedTextureGuid:
+      m_GuidLow: 15376621090115808986
+      m_GuidHigh: 14570176336519756985
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_misty
+    m_Texture: {fileID: 2800000, guid: a221eedabb69d564b9fc0f952eaa33ca, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5100206186456072239
+      m_GuidHigh: 11527619752224867205
+    m_SerializedTextureGuid:
+      m_GuidLow: 7035966415311309145
+      m_GuidHigh: 13029735382040611864
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_nympha
+    m_Texture: {fileID: 2800000, guid: 34358959c62d61a4188cdea34bebd2b4, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5282175531089135687
+      m_GuidHigh: 1845100568809426853
+    m_SerializedTextureGuid:
+      m_GuidLow: 10413639124581292158
+      m_GuidHigh: 18077666490521737082
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_sylvi
+    m_Texture: {fileID: 2800000, guid: 27c7187ead9c90847ad787bfe4c5e0fa, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5458040226071187936
+      m_GuidHigh: 1143858501302324895
+    m_SerializedTextureGuid:
+      m_GuidLow: 15781998600443417816
+      m_GuidHigh: 12448329605272891897
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: catalog_shepra
+    m_Texture: {fileID: 2800000, guid: 492454d8ec1cdb04f9f14469d259c1ac, type: 3}

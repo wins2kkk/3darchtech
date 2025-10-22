@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a498ca8f76b99314dae31ac151a3bb56, type: 3}
+  m_Name: InventoryBackground
+  m_EditorClassIdentifier: 
+  originMaterial: {fileID: 2100000, guid: 453856237dc0aa3449444544e9d4cb08, type: 2}
+  linearMaterialConfigs:
+  - startColor: {r: 1, g: 1, b: 1, a: 0.7529412}
+    endColor: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 0.7529412}
+    eElementType: 0
+  - startColor: {r: 1, g: 1, b: 1, a: 0.74509805}
+    endColor: {r: 0.08627451, g: 0.50980395, b: 0.12941177, a: 0.7607843}
+    eElementType: 1
+  - startColor: {r: 1, g: 1, b: 1, a: 0.78039217}
+    endColor: {r: 0.06666667, g: 0.6784314, b: 0.90588236, a: 0.7647059}
+    eElementType: 2
+  - startColor: {r: 1, g: 1, b: 1, a: 0.7529412}
+    endColor: {r: 0.4745098, g: 0.0627451, b: 0.0627451, a: 0.7607843}
+    eElementType: 3
+  - startColor: {r: 1, g: 1, b: 1, a: 0.7529412}
+    endColor: {r: 0.4745098, g: 0.33333334, b: 0.0627451, a: 0.7647059}
+    eElementType: 4
